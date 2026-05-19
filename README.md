@@ -1,6 +1,6 @@
 # RideWise Android App
 
-RideWise is a Kotlin-based Android app that integrates with the Strava API to provide cycling enthusiasts with a personalized dashboard of their activities, local segments, and club statistics. This demo project is intended as a technical showcase for Android development, API integration, and modern architecture patterns.
+RideWise is a Kotlin-based Android DEMO app that integrates with the Strava API to provide cycling enthusiasts with a personalized dashboard of their activities, local segments, and club statistics. This demo project is intended as a technical showcase for Android development, API integration, and modern architecture patterns.
 
 Clone this repo and load it into an emulator or physical device. Requires an internet connection for API authentication via web browser and usage. At the time this was published, testing authentication via the Strava app was incomplete.
 
